@@ -1,7 +1,7 @@
 {
   "name": "Fahrklar Cockpit-Vorschau",
   "short_name": "Fahrklar Cockpit",
-  "description": "Zehn laufende Cockpitansichten im Vollbild vergleichen.",
+  "description": "Laufende Cockpitansichten im Vollbild vergleichen.",
   "lang": "de",
   "start_url": "../neustart.html?app=1",
   "scope": "../",
